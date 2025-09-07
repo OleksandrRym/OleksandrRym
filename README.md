@@ -5,7 +5,7 @@ I mostly write in Java, play around with microservices, Kafka, databases, a bit 
 
 ## 👨‍💻 About Me
 
-- Java developer (on my way to mid-level)
+- Java developer (on my way to senior-level)
 - Computer Science student
 - I enjoy tackling challenges, debugging weird stuff, and making sense of chaos
 
