@@ -1,8 +1,9 @@
 # Oleksandr Rymar 🚀
-### Middle Java Developer
+### Back-End Developer
 
 - 🎓 **Education:** Computer Science student - State University of Information and Communication Technologies
-- 💻 **Current Focus:** Java backend development (ex Grid Dynamics)  
+- 💻 **Current Focus:** - Java, Go (ex Java backend at Grid Dynamics)
+
 - 📱 **Past Experience:** iOS development (ex Davydov Consulting)  
 
 ---
