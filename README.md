@@ -1,4 +1,25 @@
+![My photo](https://raw.githubusercontent.com/OleksandrRym/OleksandrRym/main/Make%20your%20README.png)
 
+### 💼 Work Experience
+🟢 **GlobalLogic** — Java Software Engineer | *Nov 2025 – Present*  
+- Current work
+    
+🟢 **Grid Dynamics** — Java Software Engineer | *Mar 2025  – Oct 2025*  
+- Developed and maintained microservices with Java 21 and Spring Boot, applying clean architecture
+principles for better durability and maintainability.
+- Integrated full-text search using Elasticsearch.
+- Implemented robust user security with Spring Security, including JWT, OAuth2, and custom filters,
+- ensuring reliable authentication and fine-grained access control.
+  
+🟢 **Davydov Consulting** — iOS Developer | *Jan 2024 – Jul 2024*  
+- Worked with Firebase on GCP for authentication and real-time database management
+- Mentored interns and created roadmaps for accelerated professional growth
+- Launched two products on the App Store within 7 months
+
+### 🎓 Education 
+🟢 **Computer Science** - State University of Information and Communication Technologies 
+
+    
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
